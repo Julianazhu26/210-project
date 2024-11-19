@@ -1,0 +1,16 @@
+{
+    "readList": [{
+        "author": "b",
+        "genre": "c",
+        "rating": 0,
+        "title": "a",
+        "status": true
+    }],
+    "toBeReadList": [{
+        "author": "b",
+        "genre": "c",
+        "rating": 0,
+        "title": "a",
+        "status": false
+    }]
+}

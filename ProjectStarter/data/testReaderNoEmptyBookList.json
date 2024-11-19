@@ -1,0 +1,34 @@
+{
+    "toBeReadList": [
+        {
+            "title": "a",
+            "author": "b",
+            "genre": "c",
+            "rating": 0,
+            "status": false
+        },
+        {
+            "title": "c",
+            "author": "b",
+            "genre": "a", 
+            "rating": 0,
+            "status": false
+        }
+    ],
+    "readList": [
+        {
+            "title": "1",
+            "author": "2",
+            "genre": "3", 
+            "rating": 0,
+            "status": true
+        },
+        {
+            "title": "3",
+            "author": "2",
+            "genre": "1", 
+            "rating": 0,
+            "status": true
+        }
+    ]
+}
